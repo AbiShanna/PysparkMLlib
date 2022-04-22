@@ -1,6 +1,6 @@
 # PysparkMLlib
 **ML pipeline for sentiment classification**
-<br/>
+<br/><br/>
 **S3(input data) --> ML Pipeline (Tokenizer, StopWordsRemover, Hasing, Encoding)--> Classification model --> output sentiment predictions --> S3 bucket**
 <br/>
 S3 connection configuration:<br/>
