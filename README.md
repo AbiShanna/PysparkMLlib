@@ -7,8 +7,8 @@ S3 connection configuration:<br/>
 _    
     hadoop_conf = spark._jsc.hadoopConfiguration() <br/>
     hadoop_conf.set("fs.s3n.impl", "org.apache.hadoop.fs.s3native.NativeS3FileSystem")<br/>
-    hadoop_conf.set("fs.s3n.awsAccessKeyId", '*************')<br/>
-    hadoop_conf.set("fs.s3n.awsSecretAccessKey", '*********************************')<br/>
+    hadoop_conf.set("fs.s3n.awsAccessKeyId", '************') <br/>
+    hadoop_conf.set("fs.s3n.awsSecretAccessKey", '******************************') <br/>
 
 _<br/>
 Sample execution output :
