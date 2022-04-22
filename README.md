@@ -7,5 +7,5 @@
 <br/>
 Sample execution output :
 <br/>
-![alt text](./output.png)<br/>
+![alt text](./output.PNG)<br/>
 
